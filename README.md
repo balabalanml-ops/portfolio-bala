@@ -260,6 +260,7 @@ footer { border-top: 2px solid #dce5ee; margin-top: 22px; padding-top: 16px; dis
 
 ## OUTPUT
 
+<img width="1280" height="832" alt="image" src="https://github.com/user-attachments/assets/fafaa482-4247-480f-b3ef-e3805cd32c30" />
 
 
 
